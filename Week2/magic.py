@@ -1,0 +1,6 @@
+numb = input('Enter a number: ')
+numb = int(numb)
+print(numb * 3)
+print(numb * 3 + 6)
+print((numb * 3 + 6) / 3)
+print((numb * 3 + 6) / 3 - numb)
